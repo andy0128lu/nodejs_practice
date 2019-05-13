@@ -1,0 +1,19 @@
+{
+  "name": "node_practice",
+  "version": "7.2.1",
+  "description": "Playing around NodeJs",
+  "main": "practice_diff_pages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy0128lu/nodejs_practice.git"
+  },
+  "author": "Andy Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy0128lu/nodejs_practice/issues"
+  },
+  "homepage": "https://github.com/andy0128lu/nodejs_practice#readme"
+}
