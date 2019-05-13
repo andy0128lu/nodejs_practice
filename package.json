@@ -4,6 +4,7 @@
   "description": "Playing around NodeJs",
   "main": "practice_diff_pages.js",
   "scripts": {
+    "start": "node practice_diff_pages.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
